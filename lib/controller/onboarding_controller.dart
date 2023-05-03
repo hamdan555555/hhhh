@@ -10,6 +10,7 @@ abstract class OnBoardingController extends GetxController {
   onPageChanged(int index);
 }
 
+//jjjjjjjj
 class OnBoardingControllerImp extends OnBoardingController {
   int currentPage = 0;
   late PageController pageController;
